@@ -15,7 +15,7 @@
   
   - *T8-Python = Este script es el ultimo y por medio de pyinstaller y con ayuda del script reloj.py se genera un ejecutable de dicho reloj.*
   
-  - *Estas serian las finalidades de los scripts vistos, sin embargo se puede obtener un poco mas de informacion acerca de su fucniomaniento al verificar el script.*
+*Estas serian las finalidades de los scripts vistos, sin embargo se puede obtener un poco mas de informacion acerca de su fucniomaniento al verificar el script.*
   
   
 **Autor: Daniel Ernesto Rangel Perez.** 
